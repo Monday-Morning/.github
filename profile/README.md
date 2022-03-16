@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mondaymorning.nitrkl.ac.in">
-    <img src="mm.png" alt="Monday Morning Cover" width="100%">
+    <img src="https://github.com/Monday-Morning/.github/blob/main/profile/mm.png" alt="Monday Morning Cover" width="100%">
   </a>
 </p>
 
